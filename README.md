@@ -1,5 +1,7 @@
 # Louisiana Immigration Detention Breakdown (2025)
 
+![Dashboard preview](cover.png)
+
 ## Overview
 This project processes and analyzes 2025 U.S. Immigration and Customs Enforcement (ICE) detention data to generate statistical profiles for detention facilities in Louisiana. This tool provides data-driven transparency into the demographics, detention duration, and movement patterns of individuals detained within the state's immigration system.
 
